@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/my-quiver/precache-manifest.fdbb328732ed59fdb56e62b49367ff61.js"
+  "/my-quiver/precache-manifest.e25db74256f8bd6fc028d172f84def07.js"
 );
 
 self.addEventListener('message', (event) => {
